@@ -1,3 +1,5 @@
+># This project is no longer activly maintained
+
 # Chococraft 3
 This mod is rewritten from scratch and is based on Chococraft 1 and 2.
 
